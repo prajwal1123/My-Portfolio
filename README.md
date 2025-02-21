@@ -1,6 +1,6 @@
 # NgDevFolio - Modern Angular Portfolio Website
 
-> This is an Angular adaptation of the excellent [Developer Portfolio](https://github.com/said7388/developer-portfolio) project originally created by [Abu Said](https://github.com/said7388) in Next.js.
+> This is an Angular adaptation of the excellent [Developer Portfolio](https://github.com/said7388/developer-portfolio) project originally created https://github.com/prajwal1123/My-Portfolio.git in Next.js.
 
 <p align="center">
   <img src="https://github.com/JaveedIshaq/ng-dev-folio/blob/main/screenshot.png?raw=true" alt="Ng Dev Folio Screenshot"/>
