@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/JaveedIshaq/ng-dev-folio/blob/main/screenshot.png?raw=true" alt="Ng Dev Folio Screenshot"/>
+  <img src="https://github.com/prajwal1123/My-Portfolio/blob/main/sreenshot.png#:~:text=postcss.config.js-,sreenshot.png,-tailwind.config.js" alt="Ng Dev Folio Screenshot"/>
 </p>
 
 A modern, responsive, and customizable portfolio website built with Angular 19. Perfect for developers looking to showcase their work, skills, and professional journey.
